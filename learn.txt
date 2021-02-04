@@ -1,5 +1,6 @@
 Dette er ikke en tom fil
 
+fhfhfhfhf
 Dette skal bare være på dev branch - dette er en komflikt
 
 
