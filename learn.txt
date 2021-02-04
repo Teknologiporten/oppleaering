@@ -3,3 +3,5 @@ Dette er ikke en tom fil
 master er slavearbeid
 
 commit 1
+
+commit 2
