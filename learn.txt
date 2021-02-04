@@ -5,3 +5,5 @@ Dette skal bare være på dev branch - dette er en komflikt
 
 
 funker dette?
+
+se dette kristian
