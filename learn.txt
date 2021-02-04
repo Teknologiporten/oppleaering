@@ -1,1 +1,3 @@
 Dette er ikke en tom fil
+
+master er slavearbeid
