@@ -1,3 +1,6 @@
 Dette er ikke en tom fil
 
 Dette skal bare være på dev branch
+
+
+funker dette?
