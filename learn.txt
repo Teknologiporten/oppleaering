@@ -1,6 +1,6 @@
 Dette er ikke en tom fil
 
-Dette skal bare være på dev branch
+Dette skal bare være på dev branch - dette er en komflikt
 
 
 funker dette?
